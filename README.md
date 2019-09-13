@@ -14,7 +14,19 @@
 
 ## References
 
-* (citation)
+* Citation:
+
+```
+@inproceedings{aepli2018parsing,
+  title={{Parsing Approaches for Swiss German}},
+  author={No\"emi Aepli and Simon Clematide},
+  booktitle={{Proceedings of the 3rd Swiss Text Analytics Conference (SwissText), Winterthur, Switzerland}},
+  year={2018}
+}
+```
+
+* [Download Paper](https://www.zora.uzh.ch/id/eprint/159152/1/paper1.pdf) 
+* [Download Master's Thesis](http://www.cl.uzh.ch/dam/jcr:cdad4255-ddd4-4071-a706-491e75085339/aepli_noemi_1990.pdf)
 
 
 # Changelog
