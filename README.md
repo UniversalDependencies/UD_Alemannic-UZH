@@ -1,16 +1,24 @@
 # Summary
 
-... 1-2 sentences (see [release checklist](http://universaldependencies.org/release_checklist.html#the-readme-file) for README guidelines) ...
+
+_UD\_Swiss\_German-UZH_ is a tiny manually annotated treebank of 100 sentences in different Swiss German dialects and a variety of text genres.
+
 
 
 # Introduction
 
-...
+This repository presents work on Universal Dependency Parsing for Swiss German, which has been done as part of the Master’s Thesis _Parsing Approaches for Swiss German_ at the [Institute for Computational Linguistics](www.cl.uzh.ch) at the University of Zurich.
+
+The provided resources consist of 100 Swiss German sentences, manually annotated with part-of-speech tags and universal dependencies.
+
+[NOAH’s Corpus of Swiss German Dialects](https://noe-eva.github.io/NOAH-Corpus/corpus.html) was used as a resource for the Swiss German part-of-speech tagging process - a process preliminary to parsing.
+
+
 
 
 # Acknowledgments
 
-...
+This work has been performed at the University of Zurich by Noëmi Aepli with the help of Simon Clematide.
 
 ## References
 
@@ -40,14 +48,14 @@
 Data available since: UD v2.5
 License: CC BY-SA 4.0
 Includes text: yes
-Genre: nonfiction news
-Lemmas: converted from manual
-UPOS: converted from manual
+Genre: fiction news blog wiki nonfiction
+Lemmas: not available
+UPOS: converted with corrections
 XPOS: manual native
-Features: converted from manual
-Relations: converted from manual
+Features: not available
+Relations: manual native
 Contributors: Aepli, Noëmi
-Contributing: elsewhere
+Contributing: here
 Contact: naepli@cl.uzh.ch
 ===============================================================================
 </pre>
