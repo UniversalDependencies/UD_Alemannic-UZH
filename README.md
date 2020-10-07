@@ -41,9 +41,9 @@ This work has been performed at the University of Zurich by Noëmi Aepli with th
 
 ```
 @inproceedings{aepli2018parsing,
-  title={{Parsing Approaches for Swiss German}},
+  title={Parsing Approaches for Swiss German},
   author={No\"emi Aepli and Simon Clematide},
-  booktitle={{Proceedings of the 3rd Swiss Text Analytics Conference (SwissText), Winterthur, Switzerland}},
+  booktitle={Proceedings of the 3rd Swiss Text Analytics Conference (SwissText), Winterthur, Switzerland},
   year={2018}
 }
 ```
