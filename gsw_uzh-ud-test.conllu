@@ -1149,7 +1149,7 @@
 16	seer	_	ADV	ADV	_	17	advmod	_	_
 17	guät	_	ADJ	ADJD	_	20	advmod	_	_
 18	chönä	_	AUX	VMPP	_	20	aux	_	_
-19	dra	_	ADV	PAV	_	20	obj	_	_
+19	dra	_	ADV	PAV	_	20	advmod	_	_
 20	ärinnärä	_	VERB	VVINF	_	0	root	_	SpaceAfter=No
 21	.	_	PUNCT	$.	_	20	punct	_	_
 
@@ -1237,7 +1237,7 @@
 5	Dani	_	PROPN	NE	_	9	nsubj	_	_
 6	üüs	_	PRON	PPER	_	9	obj	_	_
 7	beraits	_	ADV	ADV	_	9	advmod	_	_
-8	druff	_	ADV	PAV	_	9	obj	_	_
+8	druff	_	ADV	PAV	_	9	advmod	_	_
 9	vòrberaitet	_	VERB	VVPP	_	0	root	_	_
 10	ghaa	_	AUX	VAPP	_	9	aux	_	SpaceAfter=No
 11	.	_	PUNCT	$.	_	9	punct	_	_
