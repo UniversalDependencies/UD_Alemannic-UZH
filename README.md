@@ -67,6 +67,7 @@ This work has been performed at the University of Zurich by Noëmi Aepli with th
 Data available since: UD v2.5
 License: CC BY-SA 4.0
 Includes text: yes
+Parallel: no
 Genre: fiction news blog wiki nonfiction
 Lemmas: not available
 UPOS: converted with corrections
